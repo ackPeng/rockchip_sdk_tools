@@ -1,0 +1,1 @@
+#define GIT_COMMIT_INFO -gdde564d-231109
